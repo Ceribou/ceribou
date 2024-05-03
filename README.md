@@ -1,4 +1,4 @@
-![Header](./Github_banner.png)
+![Header](./logo/Github_banner.png)
 
 <h1 align="center"> 👋 Welcome to my Github Profile👋</h1>
 
