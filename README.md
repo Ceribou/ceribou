@@ -4,13 +4,19 @@
 
 <h3 align="center">After working several years in HR for Tech/IT profiles at companies such as Nokia and Ubisoft, I decided in 2024 to start a new career path in Data Analysis & Data Science.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cerise-bourhis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceribou" height="30" width="40" /></a>
-</p>
+<p align="justify">I worked several years in Human Resources as a Partner for employees, unions and managers for Tech/IT profiles (engineers / PhD) in high-tech companies (Nokia, Ubisoft). During my HR journey, I had the opportunity to work with people from different backgrounds. As a consequence, I am fully able to <b> work and adapt my speech to different profiles </b> (CEO, executives, managers, tech/non-tech profiles).</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" alt="python" width="40" height="40"/> </a> <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachespark.svg" alt="spark" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/> </a>
+<p align="justify">In 2024, I had the opportunity to start a new career path. I decided it was my turn to join the Tech side and started get interested in Data. 
+Through an <b> intensive training of 450h with Jedha Bootcamp </b> in 2024 (#1 Data Science Bootcamp in Europe), I developed the required languages/skills to work in Data.</p>
+
+<ul align="justify">
+    <li><b> Data Analysis  & Visualization </b>: SQL, Python, Pandas,  Big Data (PySpark, Databricks), A/B Testing,  Plotly Express, Tableau, PowerBI</li>
+    <li><b> Data Science </b>: Machine learning - Linear & Logistic Regressions, Random Forest, Decision Tree, XGBoost, KMeans, DBScan, LSA, PCA (Scitkit-learn) - and Deep Learning (RNN, CNN, GRU, LSTM - TensorFlow, Spacy (NLP), Keras)</li>
+    <li><b> Deployment </b>: FastAPI, Docker, MLflow, Streamlit, Heroku</li>
+    <li><b> Data collection </b>: Web scraping (scrapy), SQL Achemy</li>
+    <li><b> Cloud </b>: AWS, GCP</li>
+    <li><b> Collaborative tools </b>: Git, GitHub</li>
+</ul>
 
 
 
